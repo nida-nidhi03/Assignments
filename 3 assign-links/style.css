@@ -1,0 +1,17 @@
+h3
+		{
+			color: white;
+			display: block;
+			background-color:black;
+			padding: 20px;
+			text-align: center;
+
+		}
+img
+{
+	width: 400px;
+	height: 300px;
+	display: inline;
+	border-image: black 8px;
+	margin: 18px;
+}
